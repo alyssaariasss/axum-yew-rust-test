@@ -1,0 +1,10 @@
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\libgetrandom-2f529c1381d8a7ba.rmeta: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\js.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\libgetrandom-2f529c1381d8a7ba.rlib: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\js.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\getrandom-2f529c1381d8a7ba.d: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\js.rs
+
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\js.rs:

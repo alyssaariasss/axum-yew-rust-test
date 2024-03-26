@@ -1,0 +1,10 @@
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\target\debug\deps\libthread_local-ff1bf7a14de6832d.rmeta: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\target\debug\deps\libthread_local-ff1bf7a14de6832d.rlib: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\target\debug\deps\thread_local-ff1bf7a14de6832d.d: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs
+
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\lib.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\cached.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\thread_id.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.1.8\src\unreachable.rs:

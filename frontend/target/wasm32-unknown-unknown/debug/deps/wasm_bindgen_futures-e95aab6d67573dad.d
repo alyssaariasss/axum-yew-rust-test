@@ -1,0 +1,9 @@
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\libwasm_bindgen_futures-e95aab6d67573dad.rmeta: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\queue.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\task\singlethread.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\libwasm_bindgen_futures-e95aab6d67573dad.rlib: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\queue.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\task\singlethread.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\wasm_bindgen_futures-e95aab6d67573dad.d: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\queue.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\task\singlethread.rs
+
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\lib.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\queue.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\wasm-bindgen-futures-0.4.42\src\task\singlethread.rs:

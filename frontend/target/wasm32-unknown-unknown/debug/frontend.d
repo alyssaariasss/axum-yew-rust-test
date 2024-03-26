@@ -1,0 +1,1 @@
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\frontend\target\wasm32-unknown-unknown\debug\frontend.wasm: C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\frontend\src\form.rs C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\frontend\src\main.rs C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\frontend\src\products.rs

@@ -1,0 +1,11 @@
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\target\debug\deps\libgetrandom-670b813e085c7a6e.rmeta: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\target\debug\deps\libgetrandom-670b813e085c7a6e.rlib: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\target\debug\deps\getrandom-670b813e085c7a6e.d: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs
+
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs:

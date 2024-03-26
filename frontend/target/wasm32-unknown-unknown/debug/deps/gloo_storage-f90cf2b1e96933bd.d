@@ -1,0 +1,10 @@
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\libgloo_storage-f90cf2b1e96933bd.rmeta: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\errors.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\local_storage.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\session_storage.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\libgloo_storage-f90cf2b1e96933bd.rlib: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\errors.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\local_storage.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\session_storage.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\gloo_storage-f90cf2b1e96933bd.d: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\errors.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\local_storage.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\session_storage.rs
+
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\lib.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\errors.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\local_storage.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-storage-0.3.0\src\session_storage.rs:

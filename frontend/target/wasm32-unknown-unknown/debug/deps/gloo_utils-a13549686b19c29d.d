@@ -1,0 +1,10 @@
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\libgloo_utils-a13549686b19c29d.rmeta: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\errors.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\iter.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\format\json.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\libgloo_utils-a13549686b19c29d.rlib: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\errors.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\iter.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\format\json.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\wasm32-unknown-unknown\debug\deps\gloo_utils-a13549686b19c29d.d: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\errors.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\iter.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\format\json.rs
+
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\lib.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\errors.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\iter.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-utils-0.2.0\src\format\json.rs:

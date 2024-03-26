@@ -1,0 +1,10 @@
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\debug\deps\libversion_check-8f25453341fef535.rmeta: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\debug\deps\libversion_check-8f25453341fef535.rlib: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\Khaye\OneDrive\Desktop\ALYSSA\projects\rust-fullstack\server\frontend\target\debug\deps\version_check-8f25453341fef535.d: C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs:
+C:\Users\Khaye\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs:
